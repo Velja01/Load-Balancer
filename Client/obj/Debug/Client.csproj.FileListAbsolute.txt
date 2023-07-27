@@ -1,0 +1,40 @@
+C:\Users\Nebojsa\Desktop\res\Projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Client.exe.config
+C:\Users\Nebojsa\Desktop\res\Projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Client.exe
+C:\Users\Nebojsa\Desktop\res\Projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Client.pdb
+C:\Users\Nebojsa\Desktop\res\Projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Common.dll
+C:\Users\Nebojsa\Desktop\res\Projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Common.pdb
+C:\Users\Nebojsa\Desktop\res\Projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Nebojsa\Desktop\res\Projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Nebojsa\Desktop\res\Projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Nebojsa\Desktop\res\Projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.exe
+C:\Users\Nebojsa\Desktop\res\Projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.pdb
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Client.exe.config
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Client.exe
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Client.pdb
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Common.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Common.pdb
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.csproj.CopyComplete
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.exe
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.pdb
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Client.exe.config
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Client.exe
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Client.pdb
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Common.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\Client\bin\Debug\Common.pdb
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.exe
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\Client\obj\Debug\Client.pdb
+C:\Users\David Petrovic\Desktop\mreze\balancer\Client\bin\Debug\Client.exe.config
+C:\Users\David Petrovic\Desktop\mreze\balancer\Client\bin\Debug\Client.exe
+C:\Users\David Petrovic\Desktop\mreze\balancer\Client\bin\Debug\Client.pdb
+C:\Users\David Petrovic\Desktop\mreze\balancer\Client\bin\Debug\Common.dll
+C:\Users\David Petrovic\Desktop\mreze\balancer\Client\bin\Debug\Common.pdb
+C:\Users\David Petrovic\Desktop\mreze\balancer\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\David Petrovic\Desktop\mreze\balancer\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\David Petrovic\Desktop\mreze\balancer\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\David Petrovic\Desktop\mreze\balancer\Client\obj\Debug\Client.exe
+C:\Users\David Petrovic\Desktop\mreze\balancer\Client\obj\Debug\Client.pdb

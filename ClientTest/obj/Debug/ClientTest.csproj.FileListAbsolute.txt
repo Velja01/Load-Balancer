@@ -1,0 +1,140 @@
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\ClientTest.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\ClientTest.pdb
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Castle.Core.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Common.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Moq.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\nunit.framework.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Common.pdb
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Castle.Core.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Moq.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\nunit.framework.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\obj\Debug\ClientTest.csproj.CoreCompileInputs.cache
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\obj\Debug\ClientTest.csproj.CopyComplete
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\obj\Debug\ClientTest.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\obj\Debug\ClientTest.pdb
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\obj\Debug\ClientTest.csproj.AssemblyReference.cache
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Client.exe
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Client.pdb
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Client.exe.config
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\LoadBalancer.exe
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Collections.Immutable.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Memory.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Identity.Client.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Numerics.Vectors.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Buffers.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\LoadBalancer.pdb
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\LoadBalancer.exe.config
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Collections.Immutable.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Memory.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Identity.Client.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Numerics.Vectors.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Buffers.xml
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Tea\fax\3.godina\2.sem\res\Projekat-GIT\Projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\ClientTest.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\ClientTest.pdb
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Castle.Core.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Client.exe
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Common.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\LoadBalancer.exe
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Moq.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\nunit.framework.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Collections.Immutable.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Memory.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Buffers.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Client.pdb
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Client.exe.config
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Common.pdb
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\LoadBalancer.pdb
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\LoadBalancer.exe.config
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Castle.Core.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Moq.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\nunit.framework.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Collections.Immutable.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Memory.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.Buffers.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\obj\Debug\ClientTest.csproj.AssemblyReference.cache
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\obj\Debug\ClientTest.csproj.CoreCompileInputs.cache
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\obj\Debug\ClientTest.csproj.CopyComplete
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\obj\Debug\ClientTest.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\obj\Debug\ClientTest.pdb
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\ClientTest.dll.config
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\David Petrovic\Desktop\Teodorin projekat\ProjektniZadatak1_LoadBalancer\ClientTest\bin\Debug\Microsoft.Extensions.Primitives.xml
